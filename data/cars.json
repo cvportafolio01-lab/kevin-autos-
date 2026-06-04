@@ -10,9 +10,9 @@
     },
     "detalle": {
       "galeria": [
-        "imagenes/autos/auto3.jpg",
-        "imagenes/autos/autoblanco.jpg",
-        "imagenes/autos/autorojo.jpg"
+        "imagenes/auto3.jpg",
+        "imagenes/autoblanco.jpg",
+        "imagenes/autorojo.jpg"
       ],
       "descripcion": "Lujo, tecnología y confort premium.",
       "ficha": {
@@ -41,9 +41,9 @@
     },
     "detalle": {
       "galeria": [
-        "imagenes/autos/autoblanco.jpg",
-        "imagenes/autos/autorojo.jpg",
-        "imagenes/autos/auto3.jpg"
+        "imagenes/autoblanco.jpg",
+        "imagenes/autorojo.jpg",
+        "imagenes/auto3.jpg"
       ],
       "descripcion": "SUV premium de alto rendimiento.",
       "ficha": {
@@ -72,9 +72,9 @@
     },
     "detalle": {
       "galeria": [
-        "imagenes/autos/auto3.jpg",
-        "imagenes/autos/autorojo.jpg",
-        "imagenes/autos/autoblanco.jpg"
+        "imagenes/auto3.jpg",
+        "imagenes/autorojo.jpg",
+        "imagenes/autoblanco.jpg"
       ],
       "descripcion": "Máxima potencia y rendimiento deportivo.",
       "ficha": {
@@ -103,9 +103,9 @@
     },
     "detalle": {
       "galeria": [
-        "imagenes/autos/autorojo.jpg",
-        "imagenes/autos/auto3.jpg",
-        "imagenes/autos/autoblanco.jpg"
+        "imagenes/autorojo.jpg",
+        "imagenes/auto3.jpg",
+        "imagenes/autoblanco.jpg"
       ],
       "descripcion": "Camioneta todoterreno de alto rendimiento.",
       "ficha": {
@@ -134,9 +134,9 @@
     },
     "detalle": {
       "galeria": [
-        "imagenes/autos/autoblanco.jpg",
-        "imagenes/autos/auto3.jpg",
-        "imagenes/autos/autorojo.jpg"
+        "imagenes/autoblanco.jpg",
+        "imagenes/auto3.jpg",
+        "imagenes/autorojo.jpg"
       ],
       "descripcion": "Confort y tecnología de lujo.",
       "ficha": {
@@ -165,9 +165,9 @@
     },
     "detalle": {
       "galeria": [
-        "imagenes/autos/auto3.jpg",
-        "imagenes/autos/autoblanco.jpg",
-        "imagenes/autos/autorojo.jpg"
+        "imagenes/auto3.jpg",
+        "imagenes/autoblanco.jpg",
+        "imagenes/autorojo.jpg"
       ],
       "descripcion": "SUV eficiente y elegante.",
       "ficha": {
