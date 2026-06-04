@@ -1,0 +1,670 @@
+/* =========================
+   BASE GENERAL (CLARO)
+========================= */
+body {
+  background: #f5f7fb;
+  color: #1b1f2a;
+  font-family: 'Segoe UI', sans-serif;
+  padding-top: 70px;
+}
+
+/* =========================
+   NAVBAR
+========================= */
+.navbar {
+  background: #ffffff !important;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+}
+
+.navbar-brand,
+.nav-link {
+  color: #1b1f2a !important;
+  font-weight: 500;
+}
+
+.nav-link:hover {
+  color: #0d6efd !important;
+}
+
+/* =========================
+   HEADER
+========================= */
+.page-header {
+  padding: 110px 0;
+  text-align: center;
+  background: linear-gradient(135deg, #0d6efd, #4f9cff);
+  color: white;
+}
+
+.page-header h1 {
+  font-weight: 900;
+}
+
+.page-header p {
+  opacity: 0.9;
+}
+
+/* =========================
+   FILTROS
+========================= */
+.filter-section {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 14px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
+
+.btn-group .btn {
+  border-radius: 20px;
+  margin: 3px;
+}
+
+/* =========================
+   CARDS DE AUTOS
+========================= */
+.auto-tarjeta {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  overflow: hidden;
+  transition: 0.3s ease;
+  color: #1b1f2a;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
+
+.auto-tarjeta:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 18px 40px rgba(0,0,0,0.12);
+}
+
+/* =========================
+   IMÁGENES
+========================= */
+.carousel-inner img {
+  height: 230px;
+  object-fit: cover;
+}
+
+/* =========================
+   TEXTOS
+========================= */
+.card-title {
+  font-weight: 700;
+}
+
+.card-text {
+  color: #6b7280;
+}
+
+/* =========================
+   BADGES
+========================= */
+.badge {
+  padding: 6px 10px;
+  border-radius: 20px;
+  font-weight: 600;
+}
+
+/* =========================
+   LISTA ESPECIFICACIONES
+========================= */
+.specs-list li {
+  padding: 4px 0;
+  font-size: 14px;
+  color: #6b7280;
+}
+
+/* =========================
+   PRECIO
+========================= */
+.price-tag h4 {
+  font-weight: 800;
+}
+
+/* =========================
+   BOTONES
+========================= */
+.btn {
+  border-radius: 30px;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  transform: translateY(-4px);
+}
+
+/* =========================
+   CONTACTO
+========================= */
+/* =========================
+   CONTACTO MODERNO
+========================= */
+/* ================= CONTACTO GENERAL ================= */
+
+.contact-wrapper{
+  background:#f5f7fb;
+}
+
+/* MAPA */
+.map-box{
+  height:100%;
+  min-height:420px;
+  border-radius:16px;
+  overflow:hidden;
+  box-shadow:0 10px 30px rgba(0,0,0,0.1);
+}
+
+.map-box iframe{
+  width:100%;
+  height:100%;
+  border:0;
+}
+
+/* PANEL CONTACTO */
+.contact-panel{
+  background:#fff;
+  border-radius:16px;
+  padding:25px;
+  height:100%;
+  box-shadow:0 10px 30px rgba(0,0,0,0.08);
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+}
+
+/* BOTONES */
+.contact-btn{
+  display:flex;
+  align-items:center;
+  gap:12px;
+  padding:14px 16px;
+  border-radius:12px;
+  text-decoration:none;
+  font-weight:600;
+  color:#1f2937;
+  background:#f3f4f6;
+  transition:0.3s;
+}
+
+.contact-btn i{
+  font-size:20px;
+  color:#0d6efd;
+}
+
+/* hover general */
+.contact-btn:hover{
+  transform:translateY(-3px);
+  background:#e9eefc;
+}
+
+/* variantes */
+.contact-btn.whatsapp i{ color:#25D366; }
+.contact-btn.whatsapp:hover{ background:#e9fff0; }
+
+.contact-btn.email i{ color:#dc3545; }
+.contact-btn.email:hover{ background:#ffecec; }
+
+.contact-btn.alt i{ color:#6c757d; }
+
+/* INFO HORARIO */
+.info-box{
+  margin-top:10px;
+  padding:15px;
+  border-radius:12px;
+  background:#0d6efd;
+  color:white;
+  text-align:center;
+}
+
+.info-box i{
+  font-size:22px;
+  margin-bottom:5px;
+  display:block;
+}
+
+/* =========================
+   REDES SOCIALES MODERNAS
+========================= */
+.social-section {
+  background: #f5f7fb;
+}
+
+.social-grid {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+/* BOTONES REDES */
+.social-btn {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+  color: white;
+  transition: 0.3s;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  text-decoration: none;
+}
+
+/* HOVER ANIMADO */
+.social-btn:hover {
+  transform: translateY(-8px) scale(1.05);
+}
+
+/* COLORES POR RED */
+.facebook { background: #1877f2; }
+.instagram { background: #e1306c; }
+.twitter { background: #1da1f2; }
+.youtube { background: #ff0000; }
+.linkedin { background: #0077b5; }
+
+
+/* ================= TITULOS PREMIUM ================= */
+
+.section-title{
+  text-align:center;
+  font-weight:800;
+  font-size:2.2rem;
+  position:relative;
+  display:inline-block;
+  margin:0 auto 40px;
+  cursor:default;
+  transition:0.4s;
+  color:#111827;
+}
+
+/* icono */
+.section-title i{
+  margin-right:10px;
+  color:#0d6efd;
+  transition:0.4s;
+}
+
+/* línea inferior animada */
+.section-title::after{
+  content:"";
+  position:absolute;
+  left:50%;
+  bottom:-10px;
+  width:0%;
+  height:3px;
+  background:linear-gradient(90deg,#0d6efd,#00c2ff);
+  transition:0.4s ease;
+  transform:translateX(-50%);
+  border-radius:10px;
+}
+
+/* hover efecto */
+.section-title:hover{
+  transform:translateY(-4px);
+  letter-spacing:1px;
+  color:#0d6efd;
+}
+
+/* icono en hover */
+.section-title:hover i{
+  transform:rotate(-10deg) scale(1.2);
+  color:#00c2ff;
+}
+
+/* línea aparece */
+.section-title:hover::after{
+  width:60%;
+}
+
+/* brillo suave */
+.section-title::before{
+  content:"";
+  position:absolute;
+  width:120%;
+  height:120%;
+  left:-10%;
+  top:-10%;
+  background:radial-gradient(circle,rgba(13,110,253,0.15),transparent 60%);
+  opacity:0;
+  transition:0.4s;
+  z-index:-1;
+  border-radius:20px;
+}
+
+.section-title:hover::before{
+  opacity:1;
+}
+
+
+
+
+/* =========================
+   FOOTER
+========================= */
+footer {
+  background: #111827;
+  color: #d1d5db;
+}
+
+/* =========================
+   WHATSAPP
+========================= */
+.whatsapp-float {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #25d366;
+  color: white;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 26px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.whatsapp-float:hover {
+  transform: scale(1.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+  background:
+    radial-gradient(circle at 50% 0%, #1f2937 0%, transparent 60%),
+    radial-gradient(circle at 80% 50%, #0ea5e9 0%, transparent 45%),
+    linear-gradient(180deg, #050505 0%, #0a0f1a 100%);
+  color:#e5f2ff;
+}
+/* ===== CARRUSEL PRINCIPAL ===== */
+.carousel-inner img{
+  height:420px;
+  object-fit:cover;
+  border-radius:14px;
+  box-shadow:0 15px 35px rgba(0,0,0,0.12);
+  transition:0.5s;
+}
+
+/* efecto suave de cambio */
+.carousel-item{
+  transition: transform .6s ease-in-out;
+}
+
+/* ===== TITULO PRO ===== */
+h1{
+  font-weight:900;
+  transition:0.3s;
+}
+
+h1:hover{
+  color:#0d6efd;
+  transform:translateY(-3px);
+  text-shadow:0 12px 25px rgba(13,110,253,0.25);
+}
+
+/* ===== PRECIO ===== */
+.precio{
+  font-size: 2rem;
+  font-weight: 900;
+  background: linear-gradient(135deg,#0d6efd,#00c2ff);
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 12px;
+  display: inline-block;
+  box-shadow: 0 10px 25px rgba(13,110,253,0.25);
+  transition: 0.35s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+/* LUZ INTERNA */
+.precio::before{
+  content:"";
+  position:absolute;
+  top:-50%;
+  left:-50%;
+  width:200%;
+  height:200%;
+  background: radial-gradient(circle, rgba(255,255,255,0.25), transparent 60%);
+  transform: scale(0);
+  transition: 0.5s ease;
+}
+
+/* HOVER EFECTO */
+.precio:hover{
+  transform: translateY(-4px) scale(1.05);
+  box-shadow:
+    0 20px 45px rgba(13,110,253,0.45),
+    0 0 25px rgba(0,194,255,0.35);
+  letter-spacing: 1px;
+}
+
+/* ACTIVA LUZ */
+.precio:hover::before{
+  transform: scale(1);
+}
+
+/* opcional: suaviza texto */
+.precio:hover{
+  color: #eaf6ff;
+}
+/* ===== BOTONES ===== */
+.btn-custom{
+  border-radius:30px;
+  padding:12px;
+  font-weight:bold;
+  transition:0.3s;
+  position:relative;
+  overflow:hidden;
+}
+
+.btn-success{
+  background:#25D366;
+  border:none;
+}
+
+.btn-success:hover{
+  transform:translateY(-4px);
+  box-shadow:0 15px 30px rgba(37,211,102,0.35);
+}
+
+.btn-outline-primary{
+  background:white;
+  border:2px solid #0d6efd;
+  color:#0d6efd;
+}
+
+.btn-outline-primary:hover{
+  background:#0d6efd;
+  color:white;
+  transform:translateY(-4px);
+  box-shadow:0 15px 30px rgba(13,110,253,0.3);
+}
+
+/* ===== SPEC CARDS ===== */
+.spec-card{
+  background: rgba(10, 15, 25, 0.65);
+  border-radius: 12px;
+  padding: 18px;
+  text-align: center;
+  transition: 0.3s;
+  border: 1px solid rgba(255,255,255,0.08);
+  color: #eaf2ff;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+/* hover */
+.spec-card:hover{
+  transform: translateY(-6px);
+  box-shadow: 0 15px 30px rgba(13,110,253,0.25);
+  border-color: rgba(13,110,253,0.4);
+}
+
+/* ===== GALERÍA ===== */
+.galeria-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(90px,1fr));
+  gap:10px;
+}
+
+.galeria-grid img{
+  width:100%;
+  border-radius:8px;
+  cursor:pointer;
+  transition:0.3s;
+}
+
+.galeria-grid img:hover{
+  transform:scale(1.1);
+  box-shadow:0 10px 25px rgba(13,110,253,0.25);
+}
+
+/* ===== MODAL ===== */
+.modal-img{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  background:rgba(0,0,0,0.85);
+  display:none;
+  justify-content:center;
+  align-items:center;
+  z-index:999;
+}
+
+.modal-img img{
+  max-width:90%;
+  max-height:90%;
+  border-radius:10px;
+}
+
+.ficha-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
+  gap:15px;
+}
+
+/* CARD PRINCIPAL */
+.ficha-item{
+  background: rgba(10, 15, 25, 0.65);
+  border-radius: 14px;
+  padding: 18px;
+  transition: 0.4s;
+  border: 1px solid rgba(255,255,255,0.08);
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  color: #eaf2ff;
+}
+
+/* LABEL (ej: Marca, Motor) */
+.ficha-item span{
+  font-size: 11px;
+  color: rgba(255,255,255,0.55);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* VALOR (ej: Toyota, 2.5L) */
+.ficha-item h5{
+  margin-top: 5px;
+  font-size: 17px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+/* EFECTO LUZ (LO MANTENEMOS PERO MÁS SUAVE) */
+.ficha-item::before{
+  content:"";
+  position:absolute;
+  width:200%;
+  height:200%;
+  background: linear-gradient(
+    120deg,
+    transparent,
+    rgba(13,110,253,0.15),
+    transparent
+  );
+  top:-100%;
+  left:-100%;
+  transition:0.6s;
+}
+
+/* ANIMACIÓN */
+.ficha-item:hover::before{
+  top:100%;
+  left:100%;
+}
+
+.ficha-item:hover{
+  transform: translateY(-6px);
+  box-shadow: 0 15px 30px rgba(13,110,253,0.25);
+  border-color: rgba(13,110,253,0.4);
+}
+
+/* ===== WHATSAPP FLOTANTE ===== */
+.whatsapp{
+  position:fixed;
+  bottom:20px;
+  right:20px;
+  background:#25D366;
+  color:white;
+  width:60px;
+  height:60px;
+  border-radius:50%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-size:28px;
+  text-decoration:none;
+  box-shadow:0 10px 25px rgba(0,0,0,0.2);
+}
+
+.whatsapp:hover{
+  transform:scale(1.1);
+}

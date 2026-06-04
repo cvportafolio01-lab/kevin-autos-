@@ -1,0 +1,187 @@
+[
+  {
+    "id": 1,
+    "categoria": "sedan",
+    "card": {
+      "titulo": "Mercedes-Benz Clase C 2024",
+      "descripcion": "Elegancia y potencia en cada detalle",
+      "precio": "$850,000 MXN",
+      "caracteristicas": ["255 HP", "Gasolina", "Automático", "2024"]
+    },
+    "detalle": {
+      "galeria": [
+        "imagenes/autos/auto3.jpg",
+        "imagenes/autos/autoblanco.jpg",
+        "imagenes/autos/autorojo.jpg"
+      ],
+      "descripcion": "Lujo, tecnología y confort premium.",
+      "ficha": {
+        "Marca": "Mercedes-Benz",
+        "Modelo": "Clase C",
+        "Año": "2024",
+        "Motor": "2.0 Turbo",
+        "Potencia": "255 HP",
+        "Transmisión": "Automática",
+        "Combustible": "Gasolina",
+        "Puertas": "4",
+        "Seguridad": "Doble airbag",
+        "Frenos": "ABS"
+      }
+    }
+  },
+
+  {
+    "id": 2,
+    "categoria": "suv",
+    "card": {
+      "titulo": "BMW X5 M Sport 2024",
+      "descripcion": "Lujo y versatilidad para toda la familia",
+      "precio": "$1,250,000 MXN",
+      "caracteristicas": ["335 HP", "Híbrido", "Automático", "2024"]
+    },
+    "detalle": {
+      "galeria": [
+        "imagenes/autos/autoblanco.jpg",
+        "imagenes/autos/autorojo.jpg",
+        "imagenes/autos/auto3.jpg"
+      ],
+      "descripcion": "SUV premium de alto rendimiento.",
+      "ficha": {
+        "Marca": "BMW",
+        "Modelo": "X5 M Sport",
+        "Año": "2024",
+        "Motor": "3.0 TwinPower Turbo",
+        "Potencia": "335 HP",
+        "Transmisión": "Automática",
+        "Combustible": "Híbrido",
+        "Puertas": "5",
+        "Seguridad": "Airbags múltiples",
+        "Frenos": "ABS + EBD"
+      }
+    }
+  },
+
+  {
+    "id": 3,
+    "categoria": "deportivo",
+    "card": {
+      "titulo": "Porsche 911 Carrera 2024",
+      "descripcion": "Velocidad pura y diseño icónico",
+      "precio": "$2,150,000 MXN",
+      "caracteristicas": ["450 HP", "Gasolina", "Automático", "2024"]
+    },
+    "detalle": {
+      "galeria": [
+        "imagenes/autos/auto3.jpg",
+        "imagenes/autos/autorojo.jpg",
+        "imagenes/autos/autoblanco.jpg"
+      ],
+      "descripcion": "Máxima potencia y rendimiento deportivo.",
+      "ficha": {
+        "Marca": "Porsche",
+        "Modelo": "911 Carrera",
+        "Año": "2024",
+        "Motor": "3.0 Boxer Turbo",
+        "Potencia": "450 HP",
+        "Transmisión": "PDK Automática",
+        "Combustible": "Gasolina",
+        "Puertas": "2",
+        "Seguridad": "Control de estabilidad",
+        "Frenos": "Alto rendimiento"
+      }
+    }
+  },
+
+  {
+    "id": 4,
+    "categoria": "camioneta",
+    "card": {
+      "titulo": "Ford F-150 Raptor 2024",
+      "descripcion": "Potencia extrema para cualquier terreno",
+      "precio": "$1,450,000 MXN",
+      "caracteristicas": ["450 HP", "Gasolina", "Automático", "2024"]
+    },
+    "detalle": {
+      "galeria": [
+        "imagenes/autos/autorojo.jpg",
+        "imagenes/autos/auto3.jpg",
+        "imagenes/autos/autoblanco.jpg"
+      ],
+      "descripcion": "Camioneta todoterreno de alto rendimiento.",
+      "ficha": {
+        "Marca": "Ford",
+        "Modelo": "F-150 Raptor",
+        "Año": "2024",
+        "Motor": "3.5 EcoBoost",
+        "Potencia": "450 HP",
+        "Transmisión": "Automática",
+        "Combustible": "Gasolina",
+        "Puertas": "4",
+        "Seguridad": "Airbags + asistencia",
+        "Frenos": "ABS off-road"
+      }
+    }
+  },
+
+  {
+    "id": 5,
+    "categoria": "sedan",
+    "card": {
+      "titulo": "Audi A6 Premium 2024",
+      "descripcion": "Tecnología alemana de vanguardia",
+      "precio": "$980,000 MXN",
+      "caracteristicas": ["335 HP", "Híbrido", "Automático", "2024"]
+    },
+    "detalle": {
+      "galeria": [
+        "imagenes/autos/autoblanco.jpg",
+        "imagenes/autos/auto3.jpg",
+        "imagenes/autos/autorojo.jpg"
+      ],
+      "descripcion": "Confort y tecnología de lujo.",
+      "ficha": {
+        "Marca": "Audi",
+        "Modelo": "A6 Premium",
+        "Año": "2024",
+        "Motor": "2.0 TFSI",
+        "Potencia": "335 HP",
+        "Transmisión": "S-Tronic",
+        "Combustible": "Híbrido",
+        "Puertas": "4",
+        "Seguridad": "Audi pre sense",
+        "Frenos": "ABS + asistencia"
+      }
+    }
+  },
+
+  {
+    "id": 6,
+    "categoria": "suv",
+    "card": {
+      "titulo": "Mazda CX-5 Turbo 2024",
+      "descripcion": "Diseño japonés y eficiencia",
+      "precio": "$620,000 MXN",
+      "caracteristicas": ["250 HP", "Gasolina", "Automático", "2024"]
+    },
+    "detalle": {
+      "galeria": [
+        "imagenes/autos/auto3.jpg",
+        "imagenes/autos/autoblanco.jpg",
+        "imagenes/autos/autorojo.jpg"
+      ],
+      "descripcion": "SUV eficiente y elegante.",
+      "ficha": {
+        "Marca": "Mazda",
+        "Modelo": "CX-5 Turbo",
+        "Año": "2024",
+        "Motor": "2.5 Turbo",
+        "Potencia": "250 HP",
+        "Transmisión": "Automática",
+        "Combustible": "Gasolina",
+        "Puertas": "5",
+        "Seguridad": "i-Activsense",
+        "Frenos": "ABS + control"
+      }
+    }
+  }
+]
