@@ -3,91 +3,110 @@
     "id": 1,
     "categoria": "sedan",
     "card": {
-      "titulo": "Mercedes-Benz Clase C 2024",
-      "descripcion": "Elegancia y potencia en cada detalle",
-      "precio": "$850,000 MXN",
-      "caracteristicas": ["255 HP", "Gasolina", "Automático", "2024"]
+      "titulo": "Crayler LeBarón",
+      "descripcion": "Motor y transmisión al cien,  deve 10 mil pesos",
+      "precio": "$55,000 MXN",
+      "caracteristicas": ["", "Gasolina", "pintura original tapicería original", "4 polveras original todas las molduras"]
     },
     "detalle": {
       "galeria": [
-        "imagenes/auto3.jpg",
-        "imagenes/autoblanco.jpg",
-        "imagenes/autorojo.jpg"
+        "imagenes/levaron1.jpeg",
+        "imagenes/levaron2.jpeg",
+        "imagenes/levaron3.jpeg",
+        "imagenes/levaron4.jpeg",
+        "imagenes/levaron5.jpeg",
+        "imagenes/levaron6.jpeg",
+        "imagenes/levaron7.jpeg",
+        "imagenes/levaron8.jpeg",
+        "imagenes/levaron9.jpeg",
+         "imagenes/levaron10.jpeg",
+        "imagenes/levaron11.jpeg",
+        "imagenes/levaron12.jpeg",
+        "imagenes/levaron13.jpeg"
       ],
-      "descripcion": "Lujo, tecnología y confort premium.",
+      "descripcion": "Motor y transmisión al cien pintura original tapicería original, 4 polveras original todas las molduras",
       "ficha": {
-        "Marca": "Mercedes-Benz",
-        "Modelo": "Clase C",
-        "Año": "2024",
-        "Motor": "2.0 Turbo",
-        "Potencia": "255 HP",
-        "Transmisión": "Automática",
+        "Marca": "Crayler LeBarón",
+        "Modelo": "80",
+        "Año": "80",
+        "Motor": "al 100",
+        "Potencia": "",
+        "Transmisión": "Estandar",
         "Combustible": "Gasolina",
         "Puertas": "4",
-        "Seguridad": "Doble airbag",
-        "Frenos": "ABS"
+        "Seguridad": "",
+        "Frenos": ""
       }
     }
   },
 
   {
     "id": 2,
-    "categoria": "suv",
+    "categoria": "camioneta",
     "card": {
-      "titulo": "BMW X5 M Sport 2024",
-      "descripcion": "Lujo y versatilidad para toda la familia",
-      "precio": "$1,250,000 MXN",
-      "caracteristicas": ["335 HP", "Híbrido", "Automático", "2024"]
+      "titulo": "Winstar ",
+      "descripcion": "modelo 2000",
+      "precio": "$33,000 MXN",
+      "caracteristicas": ["Blanca", "Gasolina", "Automatica", "2000"]
     },
     "detalle": {
       "galeria": [
-        "imagenes/autoblanco.jpg",
-        "imagenes/autorojo.jpg",
-        "imagenes/auto3.jpg"
+        "imagenes/winstar1.jpeg",
+        "imagenes/winstar2.jpeg",
+        "imagenes/winstar3.jpeg",
+        "imagenes/winstar4.jpeg",
+        "imagenes/winstar5.jpeg",
+        "imagenes/winstar6.jpeg"
       ],
-      "descripcion": "SUV premium de alto rendimiento.",
+      "descripcion": "winstar Automatica",
       "ficha": {
-        "Marca": "BMW",
-        "Modelo": "X5 M Sport",
-        "Año": "2024",
-        "Motor": "3.0 TwinPower Turbo",
-        "Potencia": "335 HP",
+        "Marca": "Winstar",
+        "Modelo": "2000",
+        "Año": "2000",
+        "Motor": "",
+        "Potencia": "",
         "Transmisión": "Automática",
-        "Combustible": "Híbrido",
-        "Puertas": "5",
-        "Seguridad": "Airbags múltiples",
-        "Frenos": "ABS + EBD"
+        "Combustible": "",
+        "Puertas": "3",
+        "Seguridad": "",
+        "Frenos": ""
       }
     }
   },
 
   {
     "id": 3,
-    "categoria": "deportivo",
+    "categoria": "sedan",
     "card": {
-      "titulo": "Porsche 911 Carrera 2024",
-      "descripcion": "Velocidad pura y diseño icónico",
-      "precio": "$2,150,000 MXN",
-      "caracteristicas": ["450 HP", "Gasolina", "Automático", "2024"]
+      "titulo": "Tsuru 1995",
+      "descripcion": "estandar",
+      "precio": "$26,500 MXN",
+      "caracteristicas": ["estandar", "Gasolina", "4 puertas", "1995"]
     },
     "detalle": {
       "galeria": [
-        "imagenes/auto3.jpg",
-        "imagenes/autorojo.jpg",
-        "imagenes/autoblanco.jpg"
+        "imagenes/tsuru1.jpeg",
+        "imagenes/tsuru2.jpeg",
+        "imagenes/tsuru3.jpeg",
+        "imagenes/tsuru4.jpeg",
+        "imagenes/tsuru5.jpeg",
+        "imagenes/tsuru6.jpeg",
+        "imagenes/tsuru7.jpeg",
+        "imagenes/tsuru8.jpeg"
+        
       ],
-      "descripcion": "Máxima potencia y rendimiento deportivo.",
+      "descripcion": "Tsuru 1995.",
       "ficha": {
-        "Marca": "Porsche",
-        "Modelo": "911 Carrera",
-        "Año": "2024",
-        "Motor": "3.0 Boxer Turbo",
-        "Potencia": "450 HP",
-        "Transmisión": "PDK Automática",
+        "Marca": "Tsuru",
+        "Modelo": "1995",
+        "Año": "1995",
+        "Motor": "",
+        "Potencia": "",
+        "Transmisión": "Estandar",
         "Combustible": "Gasolina",
-        "Puertas": "2",
-        "Seguridad": "Control de estabilidad",
-        "Frenos": "Alto rendimiento"
+        "Puertas": "4",
+        "Seguridad": "",
+        "Frenos": ""
       }
     }
   },
@@ -96,29 +115,29 @@
     "id": 4,
     "categoria": "camioneta",
     "card": {
-      "titulo": "Ford F-150 Raptor 2024",
+      "titulo": "Ford Econoline modelo 93 ",
       "descripcion": "Potencia extrema para cualquier terreno",
-      "precio": "$1,450,000 MXN",
-      "caracteristicas": ["450 HP", "Gasolina", "Automático", "2024"]
+      "precio": "$46,000 MXN",
+      "caracteristicas": ["", "Gasolina", "", "93"]
     },
     "detalle": {
       "galeria": [
-        "imagenes/autorojo.jpg",
-        "imagenes/auto3.jpg",
-        "imagenes/autoblanco.jpg"
+        "imagenes/ford1.jpeg",
+        "imagenes/ford2.jpeg",
+        "imagenes/ford3.jpeg"
       ],
       "descripcion": "Camioneta todoterreno de alto rendimiento.",
       "ficha": {
-        "Marca": "Ford",
-        "Modelo": "F-150 Raptor",
-        "Año": "2024",
-        "Motor": "3.5 EcoBoost",
-        "Potencia": "450 HP",
-        "Transmisión": "Automática",
+        "Marca": "Ford Econoline",
+        "Modelo": "Econoline",
+        "Año": "93",
+        "Motor": "",
+        "Potencia": "",
+        "Transmisión": "",
         "Combustible": "Gasolina",
         "Puertas": "4",
-        "Seguridad": "Airbags + asistencia",
-        "Frenos": "ABS off-road"
+        "Seguridad": "",
+        "Frenos": ""
       }
     }
   },
@@ -127,60 +146,66 @@
     "id": 5,
     "categoria": "sedan",
     "card": {
-      "titulo": "Audi A6 Premium 2024",
-      "descripcion": "Tecnología alemana de vanguardia",
-      "precio": "$980,000 MXN",
-      "caracteristicas": ["335 HP", "Híbrido", "Automático", "2024"]
+      "titulo": "Pointer Volkswagen 2003",
+      "descripcion": "Detalles de su año. Motor y transmision en buenas condiciones.",
+      "precio": "$20,000 MXN",
+      "caracteristicas": ["", "Papeles originales", "", "2003"]
     },
     "detalle": {
       "galeria": [
-        "imagenes/autoblanco.jpg",
-        "imagenes/auto3.jpg",
-        "imagenes/autorojo.jpg"
+        "imagenes/pointer1.jpeg",
+        "imagenes/pointer2.jpeg",
+        "imagenes/pointer3.jpeg",
+        "imagenes/pointer4.jpeg",
+        "imagenes/pointer5.jpeg",
+        "imagenes/pointer6.jpeg",
+        "imagenes/pointer7.jpeg",
+        "imagenes/pointer8.jpeg",
+        "imagenes/pointer9.jpeg"
       ],
       "descripcion": "Confort y tecnología de lujo.",
       "ficha": {
-        "Marca": "Audi",
-        "Modelo": "A6 Premium",
-        "Año": "2024",
-        "Motor": "2.0 TFSI",
-        "Potencia": "335 HP",
-        "Transmisión": "S-Tronic",
-        "Combustible": "Híbrido",
+        "Marca": "Volkswagen",
+        "Modelo": "Pointer",
+        "Año": "2003",
+        "Motor": "",
+        "Potencia": "",
+        "Transmisión": "",
+        "Combustible": "Gasolina",
         "Puertas": "4",
-        "Seguridad": "Audi pre sense",
-        "Frenos": "ABS + asistencia"
+        "Seguridad": "",
+        "Frenos": ""
       }
     }
   },
 
   {
     "id": 6,
-    "categoria": "suv",
+    "categoria": "camioneta",
     "card": {
-      "titulo": "Mazda CX-5 Turbo 2024",
-      "descripcion": "Diseño japonés y eficiencia",
-      "precio": "$620,000 MXN",
-      "caracteristicas": ["250 HP", "Gasolina", "Automático", "2024"]
+      "titulo": "GMC Savana 1999 ",
+      "descripcion": "Las seis llantas 80% de vida, Debe refrendo 2026 ",
+      "precio": "$115,000 MXN",
+      "caracteristicas": ["Motor nuevo transmisión reparada al 100% sin detalles mecánicos jala duro", "Gasolina", "Automático", "2024"]
     },
     "detalle": {
       "galeria": [
-        "imagenes/auto3.jpg",
-        "imagenes/autoblanco.jpg",
-        "imagenes/autorojo.jpg"
+        "imagenes/savana1.jpeg",
+        "imagenes/savana2.jpeg",
+        "imagenes/savana3.jpeg"
       ],
-      "descripcion": "SUV eficiente y elegante.",
+      "descripcion": "Caja seca mide 4 de largo 2.50 de alto y 2.90 de ancho trae rampa",
       "ficha": {
-        "Marca": "Mazda",
-        "Modelo": "CX-5 Turbo",
-        "Año": "2024",
-        "Motor": "2.5 Turbo",
-        "Potencia": "250 HP",
-        "Transmisión": "Automática",
+        "Marca": "GMC",
+        "Modelo": "Savana",
+        "Año": "1999",
+        "Motor": "",
+        "Potencia": "",
+        "Transmisión": "",
         "Combustible": "Gasolina",
-        "Puertas": "5",
-        "Seguridad": "i-Activsense",
-        "Frenos": "ABS + control"
+        "Puertas": "Caja seca mide 4 de largo 2.50 de alto y 2.90 de ancho trae rampa",
+        "Seguridad": "",
+        "Frenos": ""
       }
     }
   }
